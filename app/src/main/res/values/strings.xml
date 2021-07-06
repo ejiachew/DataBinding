@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="tvName">Name:</string>
+    <string name="tvAddress">Address:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvnric_no">NRIC No:</string>
+    <string name="btnUpdate">Update</string>
+</resources>
